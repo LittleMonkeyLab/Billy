@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+format:
+  revealjs:
+    output-file: "monkey.html"
+    incremental: true
+    title-block-style: none
+    slide-number: c
+    title-slide-style: default
+    auto-animate: true
+    reference-location: section
+    footnotes-hover: true
+    citations-hover: true
+    controls: true
+    fig-align: center
+    theme: [css/light.scss, css/callouts.scss]
+

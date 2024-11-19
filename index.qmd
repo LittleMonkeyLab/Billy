@@ -1,0 +1,560 @@
+---
+date: 2024-11-11
+date-modified: last-modified
+bibliography: references.bib
+appendix-cite-as: display
+favicon: "./assets/favicon.svg"
+image: "assets/thumbnail.png"
+footer: "{{< fa brands github >}} [FOOTERTEXT](https://littlemonkeylab.github.io/)"
+twitter-card:
+  site: "drdeception"
+  creator: "drdeception"
+  image: "./assets/thumbnail.png"
+  title: "TITLE TEXT"
+  description: "DESCRIPTION TEXT"
+open-graph:
+  image: "./assets/thumbnail.png"
+  title: "OG TITLE"
+  description: "OG DESCRIPTION"
+author:
+  name: Gordon Wright
+  url: https://littlemonkeylab.com
+  orcid: 0000-0002-9981-0876
+  email: g.wright@gold.ac.uk
+  affiliation: LittleMonkeyLab
+  affiliation-url: https://littlemonkeylab.com
+citation:
+   author: Dr. Gordon Wright
+   type: speech
+   genre: "INSERT MODULE"
+   container-title: none
+   title: "CITATION TITLE"
+   url: https://littlemonkeylab.com
+   abstract: | 
+     CITATION ABSTRACT
+format:
+  revealjs: default
+---
+
+::: {style="text-align:center; padding:1em; border-radius:10px"}
+[Presentation Title]{style="font-size:1.5em; font-weight:bold"}
+
+\
+
+[Optional Subtitle]{style="font-size:1.2em; font-weight:bold"}
+
+[Presenter Name]{style="font-size:0.8em"}
+
+\
+[Affiliations and Contact Information Here]{style="font-size:0.8em"}
+:::
+
+# Basic Text Slide {.centeredslide}
+
+-   Main Point 1: Placeholder description or detail
+-   Main Point 2: Additional placeholder information
+-   Main Point 3: Supporting placeholder text or example
+-   Summary point to emphasize the takeaway
+
+# Two-Column with Image {.centeredslide}
+
+::::: columns
+::: {.column width="50%"}
+-   Key Point 1: Placeholder explanation or detail.
+-   Key Point 2: Additional placeholder context.
+-   Key Point 3: Further explanation or example.
+:::
+
+::: {.column width="50%" style="text-align:center;"}
+![](./assets/lewin-equation.svg){width="80%"}
+:::
+:::::
+
+# Two-Column with Callouts {.centeredslide}
+
+:::::: columns
+:::: {.column width="50%"}
+::: {.callout-note title="Main Idea" style="text-align:left; color:blue; border-color:red"}
+Provide a summary or purpose of this section.
+
+-   Detail 1: Placeholder explanation or background.
+-   Detail 2: Further placeholder information.
+:::
+
+-   Supporting Point 1: Placeholder support statement.
+-   Supporting Point 2: Placeholder example or context.
+::::
+
+::: {.column width="50%"}
+![](./assets/lewin-equation.svg){width="80%"}
+:::
+::::::
+
+# 3-Box Vertical Layout {.centeredslide auto-animate="true"}
+
+:::::::: columns
+:::::: {.column width="50%"}
+::: {style="border: 1px solid black; border-radius: 6px; padding:1em; margin-bottom: 1em;"}
+**Box 1**\
+Placeholder text for Box 1.
+:::
+
+::: {style="border: 1px solid black; border-radius: 6px; padding:1em; margin-bottom: 1em;"}
+**Box 2**\
+Placeholder text for Box 2.
+:::
+
+::: {style="border: 1px solid black; border-radius: 6px; padding:1em; margin-bottom: 1em;"}
+**Box 3**\
+Placeholder text for Box 3.
+:::
+::::::
+
+::: {.column width="50%" style="text-align:center;"}
+![](./assets/lewin-equation.svg){width="70%"}
+:::
+::::::::
+
+# 3-Box Horizontal Layout {.centeredslide auto-animate="true"}
+
+:::::: {style="display:flex; justify-content:center; gap:1em; padding-top:2em;"}
+::: {style="border: 1px solid var(--green-text); border-radius: 6px; padding:1em; width:30%;"}
+**Box 1**\
+Expanded placeholder text for Box 1.
+:::
+
+::: {style="border: 1px solid var(--green-text); border-radius: 6px; padding:1em; width:30%;"}
+**Box 2**\
+Expanded placeholder text for Box 2.
+:::
+
+::: {style="border: 1px solid var(--green-text); border-radius: 6px; padding:1em; width:30%;"}
+**Box 3**\
+Expanded placeholder text for Box 3.
+:::
+::::::
+
+# 3-Box Horizontal Layout with Fragments {.centeredslide auto-animate="true"}
+
+:::::: {style="display:flex; justify-content:center; gap:1em; padding-top:2em;"}
+::: {.fragment style="border: 1px solid var(--green-text); border-radius: 6px; padding:1em; width:30%;" data-fragment-index="1"}
+**Box 1**\
+Description for Box 1.
+:::
+
+::: {.fragment style="border: 1px solid var(--green-text); border-radius: 6px; padding:1em; width:30%;" data-fragment-index="2"}
+**Box 2**\
+Description for Box 2.
+:::
+
+::: {.fragment style="border: 1px solid var(--green-text); border-radius: 6px; padding:1em; width:30%;" data-fragment-index="3"}
+**Box 3**\
+Description for Box 3.
+:::
+::::::
+
+# 3-Box Horizontal Layout with Sequential Bold {.centeredslide auto-animate="true"}
+
+:::::: {style="display:flex; justify-content:center; gap:1em; padding-top:2em;"}
+::: {.fragment style="border: 1px solid var(--green-text); border-radius: 6px; padding:1em; width:30%;" data-fragment-index="1"}
+**Box 1**\
+Placeholder text for Box 1.
+:::
+
+::: {.fragment style="border: 1px solid var(--green-text); border-radius: 6px; padding:1em; width:30%;" data-fragment-index="2"}
+**Box 2**\
+Placeholder text for Box 2.
+:::
+
+::: {.fragment style="border: 1px solid var(--green-text); border-radius: 6px; padding:1em; width:30%;" data-fragment-index="3"}
+**Box 3**\
+Placeholder text for Box 3.
+:::
+::::::
+
+:::::: {style="display:flex; justify-content:center; gap:1em; padding-top:2em;"}
+::: {.fragment style="border: 1px solid var(--green-text); border-radius: 6px; padding:1em; width:30%; font-weight:bold;" data-fragment-index="4"}
+**Box 1**\
+Placeholder text for Box 1.
+:::
+
+::: {.fragment style="border: 1px solid var(--green-text); border-radius: 6px; padding:1em; width:30%; font-weight:bold;" data-fragment-index="5"}
+**Box 2**\
+Placeholder text for Box 2.
+:::
+
+::: {.fragment style="border: 1px solid var(--green-text); border-radius: 6px; padding:1em; width:30%; font-weight:bold;" data-fragment-index="6"}
+**Box 3**\
+Placeholder text for Box 3.
+:::
+::::::
+
+# AB\|CC {.centeredslide}
+
+:::::: columns
+:::: {.column width="50%"}
+::: {.callout-note title="Objective" style="text-align:left; color:var(--dim-text);"}
+Generate **sampled data** $\{y_{i}\}$, such that[^1]
+$$\{y_{i}\} \sim q(y) \propto e^{-A(y)}$$ where $A(y)$ represents some
+*measurement function* or concept.
+:::
+
+-   Aim to evaluate metrics
+::::
+
+::: {.column width="49%"}
+![](./assets/lewin-equation.svg)
+:::
+::::::
+
+[^1]: Here, $\sim$ means "is distributed according to"
+
+When samples are [correlated]{.red-text}, an adjustment factor, , is
+applied:
+
+# Callout Showcase {.centeredslide}
+
+## This slide deck demonstrates the various callout styles.
+
+# Note Callout {.centeredslide}
+
+::: callout-note
+### Note Callout Title
+
+This is a basic note callout. It provides additional information in a
+non-intrusive format.
+:::
+
+------------------------------------------------------------------------
+
+# Tip Callout {.centeredslide}
+
+::: callout-tip
+### Tip Callout Title
+
+Use this tip callout to provide useful suggestions or advice to users.
+:::
+
+------------------------------------------------------------------------
+
+# Warning Callout {.centeredslide}
+
+::: callout-warning
+### Warning Callout Title
+
+This warning callout is for highlighting potential issues or critical
+points.
+:::
+
+------------------------------------------------------------------------
+
+# Caution Callout {.centeredslide}
+
+::: callout-caution
+### Caution Callout Title
+
+A caution callout is used to signal important but not critical
+information that requires attention.
+:::
+
+------------------------------------------------------------------------
+
+# Important Callout {.centeredslide}
+
+::: callout-important
+### Important Callout Title
+
+This important callout emphasizes very significant information.
+:::
+
+------------------------------------------------------------------------
+
+# Code Callout {.centeredslide}
+
+::: callout-code
+### Code Callout Title
+
+Use the code callout to highlight code snippets or technical
+instructions.
+:::
+
+# Simple Style Callouts {.centeredslide}
+
+::: {.callout-note appearance="simple"}
+### Note Callout
+
+This is a note callout with simple styling. Perfect for additional
+information.
+:::
+
+::: {.callout-tip appearance="simple"}
+### Tip Callout
+
+Here's a helpful tip with simple styling!
+:::
+
+::: {.callout-warning appearance="simple"}
+### Warning Callout
+
+Be careful! This is a warning with simple styling.
+:::
+
+::: {.callout-important appearance="simple"}
+### Important Callout
+
+This is really important information with simple styling!
+:::
+
+::: {.callout-caution appearance="simple"}
+### Caution Callout
+
+Proceed with caution - simple style alert.
+:::
+
+# Default Style Callouts {.centeredslide}
+
+::: callout-note
+### Note Callout
+
+This is a note callout with default styling. Notice the different border
+treatment.
+:::
+
+::: callout-tip
+### Tip Callout
+
+Here's a helpful tip with default styling!
+:::
+
+::: callout-warning
+### Warning Callout
+
+Be careful! This is a warning with default styling.
+:::
+
+::: callout-important
+### Important Callout
+
+This is really important information with default styling!
+:::
+
+::: callout-caution
+### Caution Callout
+
+Proceed with caution - default style alert.
+:::
+
+# Minimal Style Callouts {.centeredslide}
+
+::: {.callout-note appearance="minimal"}
+### Note Callout
+
+This is a note callout with minimal styling. Notice how clean it looks.
+:::
+
+::: {.callout-tip appearance="minimal"}
+### Tip Callout
+
+Here's a helpful tip with minimal styling!
+:::
+
+::: {.callout-warning appearance="minimal"}
+### Warning Callout
+
+Be careful! This is a warning with minimal styling.
+:::
+
+::: {.callout-important appearance="minimal"}
+### Important Callout
+
+This is really important information with minimal styling!
+:::
+
+::: {.callout-caution appearance="minimal"}
+### Caution Callout
+
+Proceed with caution - minimal style alert.
+:::
+
+# Combined Example {.centeredslide}
+
+::::::::: columns
+:::: {.column width="33%"}
+::: {.callout-tip appearance="simple"}
+### Simple
+
+Clean and simple style
+:::
+::::
+
+:::: {.column width="33%"}
+::: callout-tip
+### Default
+
+Standard style
+:::
+::::
+
+:::: {.column width="33%"}
+::: {.callout-tip appearance="minimal"}
+### Minimal
+
+Stripped down style
+:::
+::::
+:::::::::
+
+# Interactive Example {.centeredslide}
+
+::::::: columns
+:::: {.column width="50%"}
+::: callout-note
+### Code Example
+
+``` python
+def hello_world():
+    print("Hello!")
+```
+:::
+::::
+
+:::: {.column width="50%"}
+::: {.callout-tip appearance="minimal"}
+### Result
+
+The output will be a friendly greeting!
+:::
+::::
+:::::::
+
+# Combined Example
+
+::::::::: columns
+:::: {.column width="33%"}
+::: {.callout-note appearance="simple"}
+### Simple Note
+
+Clean and simple style for Note
+:::
+::::
+
+:::: {.column width="33%"}
+::: callout-note
+### Default Note
+
+Standard style for Note
+:::
+::::
+
+:::: {.column width="33%"}
+::: {.callout-note appearance="minimal"}
+### Minimal Note
+
+Stripped down style for Note
+:::
+::::
+:::::::::
+
+::::::::: columns
+:::: {.column width="33%"}
+::: {.callout-tip appearance="simple"}
+### Simple Tip
+
+Clean and simple style for Tip
+:::
+::::
+
+:::: {.column width="33%"}
+::: callout-tip
+### Default Tip
+
+Standard style for Tip
+:::
+::::
+
+:::: {.column width="33%"}
+::: {.callout-tip appearance="minimal"}
+### Minimal Tip
+
+Stripped down style for Tip
+:::
+::::
+:::::::::
+
+::::::::: columns
+:::: {.column width="33%"}
+::: {.callout-important appearance="simple"}
+### Simple Important
+
+Clean and simple style for Important
+:::
+::::
+
+:::: {.column width="33%"}
+::: callout-important
+### Default Important
+
+Standard style for Important
+:::
+::::
+
+:::: {.column width="33%"}
+::: {.callout-important appearance="minimal"}
+### Minimal Important
+
+Stripped down style for Important
+:::
+::::
+:::::::::
+
+::::::::: columns
+:::: {.column width="33%"}
+::: {.callout-warning appearance="simple"}
+### Simple Warning
+
+Clean and simple style for Warning
+:::
+::::
+
+:::: {.column width="33%"}
+::: callout-warning
+### Default Warning
+
+Standard style for Warning
+:::
+::::
+
+:::: {.column width="33%"}
+::: {.callout-warning appearance="minimal"}
+### Minimal Warning
+
+Stripped down style for Warning
+:::
+::::
+:::::::::
+
+::::::::: columns
+:::: {.column width="33%"}
+::: {.callout-caution appearance="simple"}
+### Simple Caution
+
+Clean and simple style for Caution
+:::
+::::
+
+:::: {.column width="33%"}
+::: callout-caution
+### Default Caution
+
+Standard style for Caution with more words
+:::
+::::
+
+:::: {.column width="33%"}
+::: {.callout-caution appearance="minimal"}
+### Minimal Caution
+
+Stripped down style for Caution
+:::
+::::
+:::::::::
