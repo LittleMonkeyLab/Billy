@@ -4,7 +4,6 @@ project:
 
 format:
   revealjs:
-    output-file: "monkey.html"
     incremental: true
     title-block-style: none
     slide-number: c
