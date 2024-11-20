@@ -763,7 +763,7 @@ organization.
 ::: nonincremental
 ## References
 
-### General Deception Theory and Detection
+## General Deception Theory and Detection
 
 -   Ekman, P. (1985). Telling lies: Clues to deceit in the marketplace,
     politics, and marriage. W. W. Norton.
@@ -781,7 +781,7 @@ organization.
 
 ::: nonincremental
 
-### Deception in High-Stakes Scenarios
+## Deception in High-Stakes Scenarios
 
 -   Frank, M. G., & Ekman, P. (1997). The ability to detect deceit
     generalizes across different types of high-stake lies. Journal of
@@ -796,7 +796,7 @@ organization.
 
 ::: nonincremental
 
-### Multimodal Deception Detection
+## Multimodal Deception Detection
 
 -   Burgoon, J. K., Guerrero, L. K., & Floyd, K. (2016). Nonverbal
     communication. Routledge. (Chapter on deception cues)
@@ -812,7 +812,7 @@ organization.
 
 ::: nonincremental
 
-### Linguistic Indicators of Deception
+## Linguistic Indicators of Deception
 
 -   Hancock, J. T., Curry, L., Goorha, S., & Woodworth, M. (2008). On
     lying and being lied to: A linguistic analysis of deception in
@@ -826,7 +826,7 @@ organization.
 
 ::: nonincremental
 
-### Deception and Power Dynamics
+## Deception and Power Dynamics
 
 -   Hyman, R. (1989). The psychology of deception. Annual Review of
     Psychology, 40, 133-154.
@@ -841,7 +841,7 @@ organization.
 
 ::: nonincremental
 
-### Deception in Political and Social Contexts
+## Deception in Political and Social Contexts
 
 -   Levine, T. R. (2014). Duped: Truth-default theory and the social
     science of lying and deception. University of Alabama Press.
@@ -854,19 +854,19 @@ organization.
 
 ::: nonincremental
 
-### 4E Cognitive Science Model
+## 4E Cognitive Science Model
 
 -   Clark, A. (1997). Being there: Putting brain, body, and world
     together again. MIT Press.
 -   Varela, F. J., Thompson, E., & Rosch, E. (2017). The embodied mind:
     Cognitive science and human experience. MIT Press.
 
-### Truthiness and Post-Truth Era
+## Truthiness and Post-Truth Era
 
 -   Colbert, S. (2005). Truthiness. The Colbert Report.
 -   McIntyre, L. C. (2018). Post-truth. MIT Press.
 
-### Reality Distortion Field and Steve Jobs
+## Reality Distortion Field and Steve Jobs
 
 -   Isaacson, W. (2011). Steve Jobs. Simon & Schuster.
 -   Schein, E. H. (2010). Organizational culture and leadership (4th
@@ -875,21 +875,21 @@ organization.
 
 ::: nonincremental
 
-### The Clinton Scandal and Public Trust
+## The Clinton Scandal and Public Trust
 
 -   Harris, R. (2009). Political scandal: Power and visibility in the
     media age. Polity.
 -   Sabato, L. (1998). Feeding frenzy: How attack journalism has
     transformed American politics (Rev. ed.). Free Press.
 
-### Impact on Monica Lewinsky
+## Impact on Monica Lewinsky
 
 -   Lewinsky, M. (2015). The price of shame \[TED talk\]. Retrieved from
     https://www.ted.com/talks/monica_lewinsky_the_price_of_shame
 -   Mullany, L. (2007). Gendered discourse in the professional
     workplace. Palgrave Macmillan.
 
-### Deception Research and the Clinton Denial
+## Deception Research and the Clinton Denial
 
 -   Vrij, A. (2008). Detecting lies and deceit: Pitfalls and
     opportunities (2nd ed.). Wiley.
@@ -899,7 +899,7 @@ organization.
 
 ::: nonincremental
 
-### Machiavellian Intelligence Hypothesis
+## Machiavellian Intelligence Hypothesis
 
 -   Whiten, A., & Byrne, R. W. (Eds.). (1997). Machiavellian
     intelligence II: Extensions and evaluations. Cambridge University
@@ -908,7 +908,7 @@ organization.
     synthesis of the evolutionary and psychological literatures.
     Psychological Bulletin, 119(2), 285-299.
 
-### Facial Action Coding System (FACS)
+## Facial Action Coding System (FACS)
 
 -   Ekman, P., & Friesen, W. V. (2003). Unmasking the face: A guide to
     recognizing emotions from facial clues. Malor Books.
@@ -920,14 +920,14 @@ organization.
 
 ::: nonincremental
 
-### Dunbar's Number
+## Dunbar's Number
 
 -   Dunbar, R. I. M. (1992). Neocortex size as a constraint on group
     size in primates. Journal of Human Evolution, 22(6), 469-493.
 -   Dunbar, R. I. M. (2010). How many friends does one person need?
     Dunbar’s number and other evolutionary quirks. Faber & Faber.
 
-### FFMI (Five Factor Machiavellian Inventory)
+## FFMI (Five Factor Machiavellian Inventory)
 
 -   Austin, E. J., Farrelly, D., Black, C., & Moore, H. (2007).
     Emotional intelligence, Machiavellianism, and emotional
@@ -937,7 +937,7 @@ organization.
     Triad (SD3): A brief measure of dark personality traits. Assessment,
     21(1), 28-41.
 
-### Media Influence on Scandal Perception
+## Media Influence on Scandal Perception
 
 -   Iyengar, S., & Kinder, D. R. (1987). News that matters: Television
     and American opinion. University of Chicago Press.
@@ -949,7 +949,7 @@ organization.
 
 ## Tools
 
-### py-feat
+## py-feat
 
 -   Cheong, J. H., Brooks, S., & Chang, L. J. (2021). py-feat: Python
     Facial Expression Analysis Toolbox. Journal of Open Source Software,
@@ -963,7 +963,7 @@ organization.
 
 ::: nonincremental
 
-### OpenFace
+## OpenFace
 
 -   Baltrušaitis, T., Robinson, P., & Morency, L. P. (2016). OpenFace:
     An open source facial behavior analysis toolkit. 2016 IEEE Winter
@@ -979,7 +979,7 @@ organization.
 
 ::: nonincremental
 
-### OpenPose
+## OpenPose
 
 -   Cao, Z., Hidalgo, G., Simon, T., Wei, S. E., & Sheikh, Y. (2019).
     OpenPose: Realtime Multi-Person 2D Pose Estimation using Part
@@ -996,7 +996,7 @@ organization.
 
 ::: nonincremental
 
-### Praat
+## Praat
 
 -   Boersma, P., & Weenink, D. (2023). Praat: Doing phonetics by
     computer \[Computer program\]. Version 6.3. http://www.praat.org
@@ -1010,7 +1010,7 @@ organization.
 :::
 
 ::: nonincremental
-### Linguistic Inquiry and Word Count (LIWC) - Paywall - see notes below.
+## Linguistic Inquiry and Word Count (LIWC) - Paywall - see notes below.
 
 -   Pennebaker, J. W., Boyd, R. L., Jordan, K., & Blackburn, K. (2015).
     The development and psychometric properties of LIWC2015. University
