@@ -13,8 +13,10 @@ format:
     logo: "images/LMLLOGO.png"
     scrollable: true
     controls: true
+    incremental: false
     controls-layout: edges
     theme: [css/callouts.scss, css/light.scss]
+  pptx: default
 include-in-header:
   - text: |
       <style>
@@ -23,6 +25,7 @@ include-in-header:
         height: 100px;
       }
       </style>
+  
 execute: 
   eval: false
 ---
@@ -666,7 +669,7 @@ Fake it 'til you make it?
 
 ## Bill Clinton as the Prototype Machiavellian 3
 
-:::: nonincremental
+::: nonincremental
 -   **Instrumental Rationality**
     -   His pragmatic approach prioritized effective outcomes over
         ethical consistency, focusing on what was politically
@@ -678,7 +681,9 @@ Fake it 'til you make it?
     -   Demonstrating psychological compartmentalization, he separated
         personal actions from his public role, a typical Machiavellian
         characteristic.
+:::
 
+::: nonincremental
 ## The Five Factor Machiavellian Inventory Dimensions
 
 **Antagonism** - Represents traits associated with hostility,
@@ -698,7 +703,9 @@ deliberation. Planful individuals are methodical, prefer structure, and
 think through decisions before acting. Low planfulness, on the other
 hand, reflects impulsivity, spontaneity, and a lack of foresight or
 organization.
+:::
 
+:::: nonincremental
 # Clinton's Performance
 
 ## Observable Markers:
@@ -717,7 +724,9 @@ organization.
     -   Leadership role emphasized
     -   Status reinforcement
 :::
+::::
 
+::: nonincremental
 ## Planful Elements:
 
 1.  Context Selection
@@ -732,7 +741,9 @@ organization.
     -   Legal language choice
     -   Witness implications minimized
     -   Future defense prepared
+:::
 
+::: nonincremental
 ## Antagonistic or aversive Elements:
 
 1.  Assertive Behaviors
@@ -747,7 +758,9 @@ organization.
     -   Emotional appeals
     -   Credibility cues
     -   Trust leveraging
+:::
 
+::: nonincremental
 ## References
 
 ### General Deception Theory and Detection
@@ -764,6 +777,9 @@ organization.
 -   DePaulo, B. M., Lindsay, J. J., Malone, B. E., Muhlenbruck, L.,
     Charlton, K., & Cooper, H. (2003). Cues to deception. Psychological
     Bulletin, 129(1), 74-118.
+:::
+
+::: nonincremental
 
 ### Deception in High-Stakes Scenarios
 
@@ -776,6 +792,9 @@ organization.
 -   Vrij, A., Mann, S., & Fisher, R. P. (2006). An empirical test of the
     Behaviour Analysis Interview. Law and Human Behavior, 30(3),
     329-345.
+:::
+
+::: nonincremental
 
 ### Multimodal Deception Detection
 
@@ -789,6 +808,9 @@ organization.
     Deception detection using real-life trial data. Proceedings of the
     2015 ACM on International Conference on Multimodal Interaction,
     59-66.
+:::
+
+::: nonincremental
 
 ### Linguistic Indicators of Deception
 
@@ -800,6 +822,9 @@ organization.
 -   Newman, M. L., Pennebaker, J. W., Berry, D. S., & Richards, J. M.
     (2003). Lying words: Predicting deception from linguistic styles.
     Personality and Social Psychology Bulletin, 29(5), 665-675.
+:::
+
+::: nonincremental
 
 ### Deception and Power Dynamics
 
@@ -812,6 +837,9 @@ organization.
 -   Porter, S., & ten Brinke, L. (2010). The truth about lies: What
     works in detecting high-stakes deception? Legal and Criminological
     Psychology, 15(1), 57-75.
+:::
+
+::: nonincremental
 
 ### Deception in Political and Social Contexts
 
@@ -822,6 +850,9 @@ organization.
     deception. Communication Monographs, 57(3), 219-230.
 -   Buller, D. B., & Burgoon, J. K. (1996). Interpersonal deception
     theory. Communication Theory, 6(3), 203-242.
+:::
+
+::: nonincremental
 
 ### 4E Cognitive Science Model
 
@@ -840,6 +871,9 @@ organization.
 -   Isaacson, W. (2011). Steve Jobs. Simon & Schuster.
 -   Schein, E. H. (2010). Organizational culture and leadership (4th
     ed.). Jossey-Bass.
+:::
+
+::: nonincremental
 
 ### The Clinton Scandal and Public Trust
 
@@ -861,6 +895,9 @@ organization.
     opportunities (2nd ed.). Wiley.
 -   Ekman, P. (2009). Telling lies: Clues to deceit in the marketplace,
     politics, and marriage (4th ed.). Norton.
+:::
+
+::: nonincremental
 
 ### Machiavellian Intelligence Hypothesis
 
@@ -879,6 +916,9 @@ organization.
     Harrigan, R. Rosenthal, & K. Scherer (Eds.), The new handbook of
     methods in nonverbal behavior research (pp. 9-64). Oxford University
     Press.
+:::
+
+::: nonincremental
 
 ### Dunbar's Number
 
@@ -903,6 +943,9 @@ organization.
     and American opinion. University of Chicago Press.
 -   Zaller, J. (1992). The nature and origins of mass opinion. Cambridge
     University Press.
+:::
+
+::: nonincremental
 
 ## Tools
 
@@ -916,6 +959,9 @@ organization.
     -   **Notes**: py-feat is a Python package that allows for the
         extraction and analysis of facial expressions, using machine
         learning models to infer emotions from images and videos.
+:::
+
+::: nonincremental
 
 ### OpenFace
 
@@ -929,6 +975,9 @@ organization.
         detection, head pose tracking, and facial action unit
         recognition, which makes it an excellent tool for nonverbal
         analysis in behavioral studies.
+:::
+
+::: nonincremental
 
 ### OpenPose
 
@@ -943,6 +992,9 @@ organization.
         pose estimation that can detect multiple body parts in images or
         videos, making it useful for studying body language and
         nonverbal behavior.
+:::
+
+::: nonincremental
 
 ### Praat
 
@@ -955,7 +1007,9 @@ organization.
     -   **GitHub Alternative**: While Praat itself is not hosted on
         GitHub, you can find wrappers for Python, such as [PraatIO on
         GitHub](https://github.com/timmahrt/praatIO).
+:::
 
+::: nonincremental
 ### Linguistic Inquiry and Word Count (LIWC) - Paywall - see notes below.
 
 -   Pennebaker, J. W., Boyd, R. L., Jordan, K., & Blackburn, K. (2015).
@@ -967,4 +1021,4 @@ organization.
         available on GitHub, but there are open-source alternatives and
         related projects, such as [LIWCalike in
         R](https://github.com/cran/LIWCalike).
-::::
+:::
