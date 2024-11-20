@@ -521,9 +521,23 @@ popularised and expanded upon by Paul Ekman and Wallace V. Friesen in
 
 ------------------------------------------------------------------------
 
-![](https://py-feat.org/_images/all.gif)
+![![](images/000134.png)](https://py-feat.org/_images/all.gif)
 
 ------------------------------------------------------------------------
+
+![](images/emotions.png)
+
+## Action Unit Activations (py-feat)
+
+{{< video images/au_emotion_animation.mp4 >}}
+
+## Facial Feature Extraction Overlay (py-feat)
+
+{{< video images/overlay_animation_large.mp4 >}}
+
+## Landmark Animation (py-feat)
+
+{{< video images/landmark_animation.mp4 >}}
 
 ## 2. Embodied Nonverbal Cues
 
@@ -544,6 +558,12 @@ popularised and expanded upon by Paul Ekman and Wallace V. Friesen in
 -   Distinct from baseline speaking pattern
 
 ![](images/000131.png)
+
+![](images/Speechrate.png)
+
+![](images/speechheat.png)
+
+![](images/waveform.png)
 
 ## Little Monkey
 
@@ -596,7 +616,7 @@ Link](https://login.learningonscreen.ac.uk/wayfless.php?entityID=https%3A%2F%2Fi
     necessarily financial.
 -   **Avoidance (14%)**: Escape or evade interactions with other people.
 -   **Self-Impression (8%)**: Shape a positive image of oneself.
--   **Humor (5%)**: Make people laugh, often using exaggerated or
+-   **Humour (5%)**: Make people laugh, often using exaggerated or
     fictitious elements.
 -   **Social or Polite (5%)**: Uphold social roles or avoid rudeness.
 -   **Altruistic (4%)**: Help someone else by telling a lie.
@@ -614,27 +634,27 @@ Link](https://login.learningonscreen.ac.uk/wayfless.php?entityID=https%3A%2F%2Fi
 -   **To Promote Yourself**: Lies often serve as a means to advance
     one's interests, whether for economic or personal benefit.
 -   **To Impact Others**: Lies can also be intended to influence,
-    entertain, or help others, from humor to altruistic deception.
+    entertain, or help others, from humour to altruistic deception.
 
 ## A new type of lie
 
 What about considering the 'Future-Truth' - it's a lie right now, but by
-the time anyone finds out, it will be the truth.
+the time anyone finds out, it will be the truth!
 
 To what degree is this a normal aspect of self-presentation and
 'growth'?
 
+Fake it 'til you make it?
+
 ## Bill Clinton as the Prototype Machiavellian
 
+::: nonincremental
 -   **Masterful Charm and Charisma**
     -   Clinton's charm helped him connect deeply with others, using it
         as a tool for influence—a core Machiavellian trait.
 -   **Strategic Adaptability**
     -   He showed flexibility in adapting to scandals and challenges,
         focusing on maintaining control and favorable outcomes.
-
-## Bill Clinton as the Prototype Machiavellian 2
-
 -   **Calculated Risk-Taking**
     -   Clinton took high-stakes risks, characteristic of
         Machiavellians, who weigh costs and benefits to achieve personal
@@ -642,9 +662,11 @@ To what degree is this a normal aspect of self-presentation and
 -   **Political Manipulation and Persuasion**
     -   Known for “Clintonian triangulation,” he skillfully built
         alliances, navigated power dynamics, and appealed to both sides.
+:::
 
 ## Bill Clinton as the Prototype Machiavellian 3
 
+:::: nonincremental
 -   **Instrumental Rationality**
     -   His pragmatic approach prioritized effective outcomes over
         ethical consistency, focusing on what was politically
@@ -657,13 +679,7 @@ To what degree is this a normal aspect of self-presentation and
         personal actions from his public role, a typical Machiavellian
         characteristic.
 
-# Machiavellianism in Action:
-
-## Clinton Through the FFMI Lens
-
-------------------------------------------------------------------------
-
-# The Five Factor Machiavellian Inventory Dimensions
+## The Five Factor Machiavellian Inventory Dimensions
 
 **Antagonism** - Represents traits associated with hostility,
 selfishness, and disregard for others. It includes behaviors like
@@ -683,10 +699,11 @@ think through decisions before acting. Low planfulness, on the other
 hand, reflects impulsivity, spontaneity, and a lack of foresight or
 organization.
 
-# Agency in Clinton's Performance
+# Clinton's Performance
 
 ## Observable Markers:
 
+::: nonincremental
 1.  Self-Promotional Elements
     -   "I need to go back to work for the American people"
     -   Emphasis on presidential duties
@@ -699,10 +716,9 @@ organization.
     -   Policy accomplishments highlighted
     -   Leadership role emphasized
     -   Status reinforcement
+:::
 
-# Strategic Planning Evidence
-
-## Calculated Elements:
+## Planful Elements:
 
 1.  Context Selection
     -   Policy speech backdrop
@@ -717,9 +733,7 @@ organization.
     -   Witness implications minimized
     -   Future defense prepared
 
-# Antagonism Markers
-
-## Display Elements:
+## Antagonistic or aversive Elements:
 
 1.  Assertive Behaviors
     -   Finger pointing
@@ -733,18 +747,6 @@ organization.
     -   Emotional appeals
     -   Credibility cues
     -   Trust leveraging
-
-## Action Unit Activations
-
-{{< video images/au_emotion_animation.mp4 >}}
-
-## Facial Feature Extraction Overlay
-
-{{< video images/overlay_animation_large.mp4 >}}
-
-## Landmark Animation
-
-{{< video images/landmark_animation.mp4 >}}
 
 ## References
 
@@ -965,3 +967,4 @@ organization.
         available on GitHub, but there are open-source alternatives and
         related projects, such as [LIWCalike in
         R](https://github.com/cran/LIWCalike).
+::::
