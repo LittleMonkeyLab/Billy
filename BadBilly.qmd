@@ -701,6 +701,10 @@ organization.
 
 {{< video images/au_emotion_animation.mp4 >}}
 
+------------------------------------------------------------------------
+
 {{< video images/overlay_animation_large.mp4 >}}
+
+------------------------------------------------------------------------
 
 {{< video images/landmark_animation.mp4 >}}
