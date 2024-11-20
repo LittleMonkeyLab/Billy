@@ -697,14 +697,14 @@ organization.
     -   Credibility cues
     -   Trust leveraging
 
-# 
+## Action Unit Activations
 
 {{< video images/au_emotion_animation.mp4 >}}
 
-------------------------------------------------------------------------
+## Facial Feature Extraction Overlay
 
 {{< video images/overlay_animation_large.mp4 >}}
 
-------------------------------------------------------------------------
+## Landmark Animation
 
 {{< video images/landmark_animation.mp4 >}}
