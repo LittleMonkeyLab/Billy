@@ -299,19 +299,17 @@ but somewhat distasteful to the modern eye despite his achievements.
 </iframe>
 :::
 
+## The Biggest Lie Ever Told
+
 **Global Scale and Media Coverage**
 
 -   The lie reached millions globally, with real-time media coverage and
     international scrutiny.
 
-## The Biggest Lie Ever Told
-
 **Breach of Public Trust**
 
 -   Clinton’s lie as a head of state under oath broke public trust,
     fostering widespread cynicism toward political leaders.
-
-## The Biggest Lie Ever Told
 
 **Legal Repercussions and Impeachment**
 
@@ -324,8 +322,6 @@ but somewhat distasteful to the modern eye despite his achievements.
 
 -   The scandal prompted debates on public and private morality,
     influencing society’s view on honesty in leadership.
-
-## The Biggest Lie Ever Told
 
 **Iconic Language and Lasting Legacy**
 
@@ -345,6 +341,14 @@ admission.
 The Clinton Denial became the 'Touchstone' for deception detection and
 case study.
 
+## The consequences of 9/11
+
+There was a noticeable increase in funding for anti-deception research
+in the aftermath of 9/11
+
+To say this was 'frenzied' may seem like
+exaggeration![](images/Everybodylies.jpg){width="500"}![](images/Lietome.jpg){width="417"}
+
 ## Illustrative Interpretation:
 
 Clinton's denial can be "read" as a crafted narrative intended to manage
@@ -357,10 +361,11 @@ words, the delivery, and the cultural expectations of honesty.
 ## Deception overview
 
 -   Deception is complex and multifaceted
--   Traditional focus on language alone is insufficient
--   But no single 'Pinocchio's Nose' exists
--   Need for multimodal analysis approach and embracing of contextual
-    complexity
+-   Traditional focus on stereotypical nonverbal behaviour is
+    ineffective
+-   No single 'Pinocchio's Nose' exists
+-   Need for **multimodal** analysis approach and embracing of
+    contextual complexity
 
 # The Clinton Lie: Multimodal Signals
 
@@ -494,6 +499,13 @@ Thank you.
 
 ## Coh-Metrix
 
+**Coh-Metrix** is a computational tool designed to analyze the coherence
+and cohesion of texts. It provides insights into the linguistic,
+cognitive, and discourse structures of written or spoken text. By
+leveraging a wide range of metrics, Coh-Metrix helps researchers and
+educators understand text complexity, readability, and the deeper
+relationships within language.
+
 ![](images/000130.png)
 
 ## Facial Action Coding System
@@ -545,177 +557,15 @@ popularised and expanded upon by Paul Ekman and Wallace V. Friesen in
 
 ![](images/Dunbar.png){fig-align="center"}
 
-## I did some people-watching on the telly {background-color="#ef3a5d"}
+## **The Machiavellian Intelligence Hypothesis** 
 
-[BBC Horizon - A Week Without
-Lying](https://learningonscreen.ac.uk/ondemand/index.php/prog/11ED256E?bcast=127465838&playlist=220146)
+The Machiavellian Intelligence Hypothesis posits that social demands
+have driven the evolution of the cognitive facilities humans employ to
+navigate their social domain.
 
-[Goldsmiths
-Link](https://login.learningonscreen.ac.uk/wayfless.php?entityID=https%3A%2F%2Fidp.goldsmiths.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Flearningonscreen.ac.uk%2Fondemand%2Findex.php%2Fprog%2F11ED256E%3Fbcast%3D127465838)
-
-![](images/paste-5.png){width="800"}
-
-## Cognitive Load in Deception {background-color="#ef3a5d"}
-
--   Traditional view: Lying is more cognitively demanding
-    -   Requires suppressing truth
-    -   Need to create consistent story
--   However, lying can sometimes be easier when:
-    -   Stakes/rewards are high
-    -   Lies are well-rehearsed
-    -   Story is simple
-
-## Being an Effective Liar {background-color="#ef3a5d"}
-
--   Key strategies:
-    -   Reducing cognitive load through preparation
-    -   Embedding lies within truthful information
-    -   Self-deception to reduce cognitive demands
--   Influencing factors:
-    -   Personality traits (e.g., Machiavellianism)
-    -   Moral cognition
-    -   Cultural context
-
-## Bill Clinton as the Prototype of the Psychological Machiavellian
-
-1.  **Masterful Charm and Charisma**
-    -   Clinton's charm helped him connect deeply with others, using it
-        as a tool for influence—a core Machiavellian trait.
-2.  **Strategic Adaptability**
-    -   He showed flexibility in adapting to scandals and challenges,
-        focusing on maintaining control and favorable outcomes.
-3.  **Calculated Risk-Taking**
-    -   Clinton took high-stakes risks, characteristic of
-        Machiavellians, who weigh costs and benefits to achieve personal
-        success.
-4.  **Political Manipulation and Persuasion**
-    -   Known for “Clintonian triangulation,” he skillfully built
-        alliances, navigated power dynamics, and appealed to both sides.
-5.  **Instrumental Rationality**
-    -   His pragmatic approach prioritized effective outcomes over
-        ethical consistency, focusing on what was politically
-        advantageous.
-6.  **Effective Management of Public Image**
-    -   Clinton maintained a favorable public image despite
-        controversies, displaying expert self-presentation skills.
-7.  **Boundary Between Public and Private Morality**
-    -   Demonstrating psychological compartmentalization, he separated
-        personal actions from his public role, a typical Machiavellian
-        characteristic.
-
-# 
-
-# Theoretical Frameworks
-
-## 1. Increased Cognitive Demand
-
--   Lying is mentally taxing
--   People try to minimize distractions
--   Can manifest in multiple channels
-
-## 2. Expectancy Violations
-
--   Mismatches between expected and actual behavior
--   Can create listener disequilibrium
--   May appear across different modalities
-
-## 3. Approach/Avoidance
-
--   Distance strategies in deception
--   Can be linguistic or physical
--   Mixed signals possible
-
-Note: These frameworks help us understand how deception manifests across
-different channels.
-
-------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-# Language Analysis
-
-## Syntax Patterns
-
--   More syntactically simple phrases
--   More concrete words
--   Lower narrativity
--   Unexpected high deep cohesion
-
-## Word Usage
-
--   Increased cognitive process words
--   Fewer six-letter words
--   Fewer words per sentence
--   Strategic pronoun usage
-
-Note: The paper found clear linguistic patterns during the deceptive
-statement.
-
-------------------------------------------------------------------------
-
-# Acoustic Analysis
-
-## Key Findings
-
--   Fundamental frequency (f0) changes
--   Normal speech: 4-6 peaks per minute
--   During denial: Doubled rate of peaks
--   Clear deviation from baseline pattern
-
-Note: Acoustic analysis showed marked changes during the deceptive
-segment.
-
-------------------------------------------------------------------------
-
-# Gestural Analysis
-
-## Notable Changes
-
--   Limited gestures during policy speech
--   Aggressive finger pointing during denial
--   Uncharacteristic gesture choice
--   Departure from usual closed-fist style
-
-Note: The contrast in gesture use was particularly striking.
-
-------------------------------------------------------------------------
-
-# Facial Expression Analysis
-
-## Blink Patterns
-
--   Fixed gaze during deception
--   Extended eye-widening phase
--   Blink rate changes before/after
--   Consistent with cognitive load theory
-
-Note: Facial analysis revealed classic deception patterns.
-
-------------------------------------------------------------------------
-
-# Convergent Evidence
-
-Multiple signals aligned: - Language simplified - Acoustic patterns
-changed - Gestures became aggressive - Facial control increased
-
-Supporting "Increased Cognitive Demand" theory
-
-------------------------------------------------------------------------
-
-Note: These sources provide excellent background on different aspects of
-deception analysis.
-
-# Machiavellian Mastery:
-
-## Clinton's Strategic Deception Through an Enactivist Lens
-
-![](images/000127.png)
-
-![](images/000126.png)
-
-------------------------------------------------------------------------
-
-![](images/000125.png)
+‘Machiavellian’ strategies, such as deception, interpersonal
+manipulation, cooperation, and alliance formation allow individuals to
+achieve higher social and reproductive success.
 
 # Machiavellian Traits
 
@@ -725,142 +575,50 @@ deception analysis.
 -   Calculated use of context
 -   Mastery of asymmetrical relationships
 
-------------------------------------------------------------------------
+## But what about 'normal' humans? {background-color="#ef3a5d"}
 
-# Strategic Context Management
+[BBC Horizon - A Week Without
+Lying](https://learningonscreen.ac.uk/ondemand/index.php/prog/11ED256E?bcast=127465838&playlist=220146)
 
-## Clinton's Machiavellianism in Action:
+[Goldsmiths
+Link](https://login.learningonscreen.ac.uk/wayfless.php?entityID=https%3A%2F%2Fidp.goldsmiths.ac.uk%2Fidp%2Fshibboleth&target=https%3A%2F%2Flearningonscreen.ac.uk%2Fondemand%2Findex.php%2Fprog%2F11ED256E%3Fbcast%3D127465838)
 
-1.  Chose policy speech context deliberately
-    -   Leveraged presidential authority
-    -   Created formal, credible setting
-    -   Minimized interactive questioning
-2.  Controlled Physical Environment
-    -   Podium as barrier/power symbol
-    -   Camera angles controlled
-    -   Limited audience interaction
+![](images/image00028.png){width="800"}
 
-Note: The choice of context wasn't random - it was strategically optimal
-for deception
+![](images/paste-5.png){width="800"}
 
-------------------------------------------------------------------------
+## Bill Clinton as the Prototype Machiavellian
 
-# Asymmetrical Affordance Fields
+-   **Masterful Charm and Charisma**
+    -   Clinton's charm helped him connect deeply with others, using it
+        as a tool for influence—a core Machiavellian trait.
+-   **Strategic Adaptability**
+    -   He showed flexibility in adapting to scandals and challenges,
+        focusing on maintaining control and favorable outcomes.
 
-## For Clinton:
+## Bill Clinton as the Prototype Machiavellian 2
 
--   Full awareness of reality
--   Access to damage control options
--   Legal defense preparation
--   Policy pivot possibilities
+-   **Calculated Risk-Taking**
+    -   Clinton took high-stakes risks, characteristic of
+        Machiavellians, who weigh costs and benefits to achieve personal
+        success.
+-   **Political Manipulation and Persuasion**
+    -   Known for “Clintonian triangulation,” he skillfully built
+        alliances, navigated power dynamics, and appealed to both sides.
 
-## For Public:
+## Bill Clinton as the Prototype Machiavellian 3
 
--   Limited to trusting authority
--   Restricted questioning opportunities
--   Focus directed to policy matters
--   Emotional response management
-
-Note: This asymmetry is characteristic of both Machiavellian and
-deceptive behavior
-
-------------------------------------------------------------------------
-
-# Power Dynamics in Action
-
-## Machiavellian Techniques:
-
-1.  Gesture Control
-    -   Aggressive finger pointing
-    -   Dominant posture
-    -   Space control
-2.  Vocal Authority
-    -   Emphatic denials
-    -   Tone modulation
-    -   Strategic pausing
-
-Note: These are not just deception tells but power moves
-
-------------------------------------------------------------------------
-
-# Disrupting Mutual Meaning-Making
-
-## Machiavellian Mastery:
-
--   Unilateral meaning imposition
--   Authority-based truth claims
--   Emotional manipulation
--   Strategic context exploitation
-
-## Evidence:
-
--   Fixed gaze patterns
--   Rigid posture
--   Controlled interaction
--   Limited reciprocity
-
-Note: Classic Machiavellian approach to controlling narrative
-
-------------------------------------------------------------------------
-
-# Multimodal Integration
-
-## Coordinated Control Across:
-
-1.  Physical Domain
-    -   Gesture
-    -   Posture
-    -   Facial expression
-2.  Social Domain
-    -   Status cues
-    -   Authority signals
-    -   Power dynamics
-3.  Linguistic Domain
-    -   Word choice
-    -   Tone
-    -   Rhythm
-
-Note: Machiavellian skill requires mastery across all domains
-
-------------------------------------------------------------------------
-
-# Strategic Success Factors
-
-1.  Context Exploitation
-    -   Policy speech setting
-    -   Presidential authority
-    -   Media presence
-2.  Affordance Management
-    -   Asymmetrical fields
-    -   Controlled access
-    -   Limited interaction
-3.  Power Dynamics
-    -   Institutional leverage
-    -   Physical dominance
-    -   Narrative control
-
-Note: Success required coordination of multiple strategic elements
-
-------------------------------------------------------------------------
-
-# Implications for Detection
-
-1.  Look for Power Patterns
-    -   Dominance behaviors
-    -   Control tactics
-    -   Interaction limits
-2.  Watch for Asymmetries
-    -   Information access
-    -   Interaction opportunities
-    -   Meaning-making chances
-3.  Analyze Context
-    -   Strategic setting choice
-    -   Environment control
-    -   Timing decisions
-
-Note: Understanding Machiavellian patterns helps detect deception
-
-------------------------------------------------------------------------
+-   **Instrumental Rationality**
+    -   His pragmatic approach prioritized effective outcomes over
+        ethical consistency, focusing on what was politically
+        advantageous.
+-   **Effective Management of Public Image**
+    -   Clinton maintained a favorable public image despite
+        controversies, displaying expert self-presentation skills.
+-   **Boundary Between Public and Private Morality**
+    -   Demonstrating psychological compartmentalization, he separated
+        personal actions from his public role, a typical Machiavellian
+        characteristic.
 
 # Machiavellianism in Action:
 
@@ -868,21 +626,21 @@ Note: Understanding Machiavellian patterns helps detect deception
 
 ------------------------------------------------------------------------
 
-# The FFMI Dimensions
+# The Five Factor Machiavellian Inventory Dimensions
 
-Antagonism - Represents traits associated with hostility, selfishness,
-and disregard for others. It includes behaviors like manipulation,
-callousness, immodesty, and cynicism. Antagonistic individuals
-prioritize their own needs and goals, often at the expense of others,
-and may lack empathy or compassion.
+**Antagonism** - Represents traits associated with hostility,
+selfishness, and disregard for others. It includes behaviors like
+manipulation, callousness, immodesty, and cynicism. Antagonistic
+individuals prioritize their own needs and goals, often at the expense
+of others, and may lack empathy or compassion.
 
-Agency - Refers to traits related to ambition, self-confidence, and
+**Agency** - Refers to traits related to ambition, self-confidence, and
 assertiveness. High agency reflects a strong sense of competence,
 goal-directed behavior, and the ability to influence and lead. People
 with high agency are self-assured, persistent, and less prone to
 self-doubt.
 
-Planfulness - Involves strategic thinking, organization, and
+**Planfulness** - Involves strategic thinking, organization, and
 deliberation. Planful individuals are methodical, prefer structure, and
 think through decisions before acting. Low planfulness, on the other
 hand, reflects impulsivity, spontaneity, and a lack of foresight or
@@ -940,3 +698,9 @@ organization.
     -   Trust leveraging
 
 # 
+
+{{< video images/au_emotion_animation.mp4 >}}
+
+{{< video images/overlay_animation_large.mp4 >}}
+
+{{< video images/landmark_animation.mp4 >}}
