@@ -557,7 +557,7 @@ popularised and expanded upon by Paul Ekman and Wallace V. Friesen in
 
 ![](images/Dunbar.png){fig-align="center"}
 
-## **The Machiavellian Intelligence Hypothesis** 
+## **The Machiavellian Intelligence Hypothesis**
 
 The Machiavellian Intelligence Hypothesis posits that social demands
 have driven the evolution of the cognitive facilities humans employ to
@@ -708,3 +708,223 @@ organization.
 ## Landmark Animation
 
 {{< video images/landmark_animation.mp4 >}}
+
+## References
+
+### General Deception Theory and Detection
+
+-   Ekman, P. (1985). Telling lies: Clues to deceit in the marketplace,
+    politics, and marriage. W. W. Norton.
+-   Vrij, A. (2008). Detecting lies and deceit: Pitfalls and
+    opportunities (2nd ed.). Wiley.
+-   Zuckerman, M., DePaulo, B. M., & Rosenthal, R. (1981). Verbal and
+    nonverbal communication of deception. Advances in Experimental
+    Social Psychology, 14, 1-59.
+-   Bond, C. F., & DePaulo, B. M. (2006). Accuracy of deception
+    judgments. Personality and Social Psychology Review, 10(3), 214-234.
+-   DePaulo, B. M., Lindsay, J. J., Malone, B. E., Muhlenbruck, L.,
+    Charlton, K., & Cooper, H. (2003). Cues to deception. Psychological
+    Bulletin, 129(1), 74-118.
+
+### Deception in High-Stakes Scenarios
+
+-   Frank, M. G., & Ekman, P. (1997). The ability to detect deceit
+    generalizes across different types of high-stake lies. Journal of
+    Personality and Social Psychology, 72(6), 1429-1439.
+-   ten Brinke, L., Porter, S., & Baker, A. (2012). Darwin the
+    detective: Observable facial muscle contractions reveal emotional
+    high-stakes lies. Evolution and Human Behavior, 33(4), 411-416.
+-   Vrij, A., Mann, S., & Fisher, R. P. (2006). An empirical test of the
+    Behaviour Analysis Interview. Law and Human Behavior, 30(3),
+    329-345.
+
+### Multimodal Deception Detection
+
+-   Burgoon, J. K., Guerrero, L. K., & Floyd, K. (2016). Nonverbal
+    communication. Routledge. (Chapter on deception cues)
+-   Meservy, T. O., Jensen, M. L., Kruse, J., Burgoon, J. K., &
+    Nunamaker, J. F. (2005). Deception detection through automatic,
+    unobtrusive analysis of nonverbal behavior. IEEE Intelligent
+    Systems, 20(5), 36-43.
+-   Pérez-Rosas, V., Abouelenien, M., Mihalcea, R., & Burzo, M. (2015).
+    Deception detection using real-life trial data. Proceedings of the
+    2015 ACM on International Conference on Multimodal Interaction,
+    59-66.
+
+### Linguistic Indicators of Deception
+
+-   Hancock, J. T., Curry, L., Goorha, S., & Woodworth, M. (2008). On
+    lying and being lied to: A linguistic analysis of deception in
+    computer-mediated communication. Discourse Processes, 45(1), 1-23.
+-   Pennebaker, J. W., Francis, M. E., & Booth, R. J. (2001). Linguistic
+    inquiry and word count: LIWC 2001. Lawrence Erlbaum Associates.
+-   Newman, M. L., Pennebaker, J. W., Berry, D. S., & Richards, J. M.
+    (2003). Lying words: Predicting deception from linguistic styles.
+    Personality and Social Psychology Bulletin, 29(5), 665-675.
+
+### Deception and Power Dynamics
+
+-   Hyman, R. (1989). The psychology of deception. Annual Review of
+    Psychology, 40, 133-154.
+-   O’Sullivan, M., & Ekman, P. (2004). The wizards of deception
+    detection. In Granhag, P. A., & Strömwall, L. A. (Eds.), The
+    detection of deception in forensic contexts (pp. 269-286). Cambridge
+    University Press.
+-   Porter, S., & ten Brinke, L. (2010). The truth about lies: What
+    works in detecting high-stakes deception? Legal and Criminological
+    Psychology, 15(1), 57-75.
+
+### Deception in Political and Social Contexts
+
+-   Levine, T. R. (2014). Duped: Truth-default theory and the social
+    science of lying and deception. University of Alabama Press.
+-   McCornack, S. A., & Levine, T. R. (1990). When lovers become leery:
+    The relationship between suspicion and accuracy in detecting
+    deception. Communication Monographs, 57(3), 219-230.
+-   Buller, D. B., & Burgoon, J. K. (1996). Interpersonal deception
+    theory. Communication Theory, 6(3), 203-242.
+
+### 4E Cognitive Science Model
+
+-   Clark, A. (1997). Being there: Putting brain, body, and world
+    together again. MIT Press.
+-   Varela, F. J., Thompson, E., & Rosch, E. (2017). The embodied mind:
+    Cognitive science and human experience. MIT Press.
+
+### Truthiness and Post-Truth Era
+
+-   Colbert, S. (2005). Truthiness. The Colbert Report.
+-   McIntyre, L. C. (2018). Post-truth. MIT Press.
+
+### Reality Distortion Field and Steve Jobs
+
+-   Isaacson, W. (2011). Steve Jobs. Simon & Schuster.
+-   Schein, E. H. (2010). Organizational culture and leadership (4th
+    ed.). Jossey-Bass.
+
+### The Clinton Scandal and Public Trust
+
+-   Harris, R. (2009). Political scandal: Power and visibility in the
+    media age. Polity.
+-   Sabato, L. (1998). Feeding frenzy: How attack journalism has
+    transformed American politics (Rev. ed.). Free Press.
+
+### Impact on Monica Lewinsky
+
+-   Lewinsky, M. (2015). The price of shame \[TED talk\]. Retrieved from
+    https://www.ted.com/talks/monica_lewinsky_the_price_of_shame
+-   Mullany, L. (2007). Gendered discourse in the professional
+    workplace. Palgrave Macmillan.
+
+### Deception Research and the Clinton Denial
+
+-   Vrij, A. (2008). Detecting lies and deceit: Pitfalls and
+    opportunities (2nd ed.). Wiley.
+-   Ekman, P. (2009). Telling lies: Clues to deceit in the marketplace,
+    politics, and marriage (4th ed.). Norton.
+
+### Machiavellian Intelligence Hypothesis
+
+-   Whiten, A., & Byrne, R. W. (Eds.). (1997). Machiavellian
+    intelligence II: Extensions and evaluations. Cambridge University
+    Press.
+-   Wilson, D. S., Near, D., & Miller, R. R. (1996). Machiavellianism: A
+    synthesis of the evolutionary and psychological literatures.
+    Psychological Bulletin, 119(2), 285-299.
+
+### Facial Action Coding System (FACS)
+
+-   Ekman, P., & Friesen, W. V. (2003). Unmasking the face: A guide to
+    recognizing emotions from facial clues. Malor Books.
+-   Cohn, J. F., & Ekman, P. (2005). Measuring facial action. In J. A.
+    Harrigan, R. Rosenthal, & K. Scherer (Eds.), The new handbook of
+    methods in nonverbal behavior research (pp. 9-64). Oxford University
+    Press.
+
+### Dunbar's Number
+
+-   Dunbar, R. I. M. (1992). Neocortex size as a constraint on group
+    size in primates. Journal of Human Evolution, 22(6), 469-493.
+-   Dunbar, R. I. M. (2010). How many friends does one person need?
+    Dunbar’s number and other evolutionary quirks. Faber & Faber.
+
+### FFMI (Five Factor Machiavellian Inventory)
+
+-   Austin, E. J., Farrelly, D., Black, C., & Moore, H. (2007).
+    Emotional intelligence, Machiavellianism, and emotional
+    manipulation: Does EI have a dark side? Personality and Individual
+    Differences, 43(1), 179-189.
+-   Jones, D. N., & Paulhus, D. L. (2014). Introducing the Short Dark
+    Triad (SD3): A brief measure of dark personality traits. Assessment,
+    21(1), 28-41.
+
+### Media Influence on Scandal Perception
+
+-   Iyengar, S., & Kinder, D. R. (1987). News that matters: Television
+    and American opinion. University of Chicago Press.
+-   Zaller, J. (1992). The nature and origins of mass opinion. Cambridge
+    University Press.
+
+## Tools
+
+### py-feat
+
+-   Cheong, J. H., Brooks, S., & Chang, L. J. (2021). py-feat: Python
+    Facial Expression Analysis Toolbox. Journal of Open Source Software,
+    6(57), 3085. https://doi.org/10.21105/joss.03085
+    -   **GitHub**: [py-feat GitHub
+        Repository](https://github.com/cosanlab/py-feat)
+    -   **Notes**: py-feat is a Python package that allows for the
+        extraction and analysis of facial expressions, using machine
+        learning models to infer emotions from images and videos.
+
+### OpenFace
+
+-   Baltrušaitis, T., Robinson, P., & Morency, L. P. (2016). OpenFace:
+    An open source facial behavior analysis toolkit. 2016 IEEE Winter
+    Conference on Applications of Computer Vision (WACV), 1-10.
+    https://doi.org/10.1109/WACV.2016.7477553
+    -   **GitHub**: [OpenFace GitHub
+        Repository](https://github.com/TadasBaltrusaitis/OpenFace)
+    -   **Notes**: OpenFace is an open-source tool for facial landmark
+        detection, head pose tracking, and facial action unit
+        recognition, which makes it an excellent tool for nonverbal
+        analysis in behavioral studies.
+
+### OpenPose
+
+-   Cao, Z., Hidalgo, G., Simon, T., Wei, S. E., & Sheikh, Y. (2019).
+    OpenPose: Realtime Multi-Person 2D Pose Estimation using Part
+    Affinity Fields. IEEE Transactions on Pattern Analysis and Machine
+    Intelligence, 43(1), 172-186.
+    https://doi.org/10.1109/TPAMI.2019.2929257
+    -   **GitHub**: [OpenPose GitHub
+        Repository](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+    -   **Notes**: OpenPose is a popular library for real-time human
+        pose estimation that can detect multiple body parts in images or
+        videos, making it useful for studying body language and
+        nonverbal behavior.
+
+### Praat
+
+-   Boersma, P., & Weenink, D. (2023). Praat: Doing phonetics by
+    computer \[Computer program\]. Version 6.3. http://www.praat.org
+    -   **Notes**: Praat is a widely-used software for the analysis of
+        speech in phonetics, providing a range of tools for acoustic
+        analysis, formant extraction, pitch detection, and speech
+        annotation.
+    -   **GitHub Alternative**: While Praat itself is not hosted on
+        GitHub, you can find wrappers for Python, such as [PraatIO on
+        GitHub](https://github.com/timmahrt/praatIO).
+
+### Linguistic Inquiry and Word Count (LIWC) - Paywall - see notes below.
+
+-   Pennebaker, J. W., Boyd, R. L., Jordan, K., & Blackburn, K. (2015).
+    The development and psychometric properties of LIWC2015. University
+    of Texas at Austin. https://liwc.wpengine.com/
+    -   **Notes**: LIWC is a text analysis software that quantifies
+        linguistic features to assess the psychological, cognitive, and
+        emotional states of speakers or writers. It is not directly
+        available on GitHub, but there are open-source alternatives and
+        related projects, such as [LIWCalike in
+        R](https://github.com/cran/LIWCalike).
